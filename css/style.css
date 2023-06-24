@@ -111,7 +111,7 @@ html{
 /* home section styling */
 .home{
     display: flex;
-    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS2oPJVQIU8ic79nKFEEubbPmcLr_r0qlW8g&usqp=CAU);
+    background-image:url(/images/download.png);
     height: 100vh;
     color: #fff;
     min-height: 500px;
